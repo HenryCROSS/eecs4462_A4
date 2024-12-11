@@ -1,0 +1,10 @@
+1) Using the temple from unity tutorial
+
+3)
+1. The game contains gun sound effects, background music, also a dialogue when fighting with the Boss
+2. 3D sound: The Boss' gun sound gets lower when the player gets farther. 2D sound: the background music
+3. The reverb will be changed when the Player enters the second room.
+4. Modify the boss' gun sound by changing the pitch randomly within a range from 0.2 to 2.0 to make the gun sound different for every shot. Created a list of sound so I can modify the sound easily.
+5. The player enters the Boss room, the background music will be changed
+6. Using Send and Duck Volume in the Volume Mixer, lowers the volume of the background music to make the boss dialogue can be heard easier.
+7. When the player's HP drops, a warning sound occurs; the lower the HP is, the faster and louder the sound will play.
